@@ -1,0 +1,31 @@
+raw,pos,team,conf,code,sched_code,dt
+1Boston Celtics,1,Boston Celtics,E,BOS,Boston,2022-11-20
+2Milwaukee Bucks,2,Milwaukee Bucks,E,MIL,Milwaukee,2022-11-20
+3Atlanta Hawks,3,Atlanta Hawks,E,ATL,Atlanta,2022-11-20
+4Cleveland Cavaliers,4,Cleveland Cavaliers,E,CLE,Cleveland,2022-11-20
+5Indiana Pacers,5,Indiana Pacers,E,IND,Indiana,2022-11-20
+6Washington Wizards,6,Washington Wizards,E,WAS,Washington,2022-11-20
+7Toronto Raptors,7,Toronto Raptors,E,TOR,Toronto,2022-11-20
+8Philadelphia 76ers,8,Philadelphia 76ers,E,PHI,Philadelphia,2022-11-20
+9Brooklyn Nets,9,Brooklyn Nets,E,BKN,Brooklyn,2022-11-20
+10New York Knicks,10,New York Knicks,E,NYK,New York,2022-11-20
+Miami Heat,11,Miami Heat,E,MIA,Miami,2022-11-20
+Chicago Bulls,12,Chicago Bulls,E,CHI,Chicago,2022-11-20
+Orlando Magic,13,Orlando Magic,E,ORL,Orlando,2022-11-20
+Charlotte Hornets,14,Charlotte Hornets,E,CHA,Charlotte,2022-11-20
+Detroit Pistons,15,Detroit Pistons,E,DET,Detroit,2022-11-20
+1Utah Jazz,1,Utah Jazz,W,UTA,Utah,2022-11-20
+2Phoenix Suns,2,Phoenix Suns,W,PHX,Phoenix,2022-11-20
+3Portland Trail Blazers,3,Portland Trail Blazers,W,POR,Portland,2022-11-20
+4Denver Nuggets,4,Denver Nuggets,W,DEN,Denver,2022-11-20
+5Sacramento Kings,5,Sacramento Kings,W,SAC,Sacramento,2022-11-20
+6Memphis Grizzlies,6,Memphis Grizzlies,W,MEM,Memphis,2022-11-20
+7LA Clippers,7,LA Clippers,W,LAC,LA,2022-11-20
+8New Orleans Pelicans,8,New Orleans Pelicans,W,NOP,New Orleans,2022-11-20
+9Dallas Mavericks,9,Dallas Mavericks,W,DAL,Dallas,2022-11-20
+10Minnesota Timberwolves,10,Minnesota Timberwolves,W,MIN,Minnesota,2022-11-20
+Golden State Warriors,11,Golden State Warriors,W,GSW,Golden State,2022-11-20
+Oklahoma City Thunder,12,Oklahoma City Thunder,W,OKC,Oklahoma City,2022-11-20
+San Antonio Spurs,13,San Antonio Spurs,W,SAS,San Antonio,2022-11-20
+Los Angeles Lakers,14,Los Angeles Lakers,W,LAL,Los Angeles,2022-11-20
+Houston Rockets,15,Houston Rockets,W,HOU,Houston,2022-11-20

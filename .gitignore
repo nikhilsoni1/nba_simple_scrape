@@ -1,0 +1,3 @@
+.venv/
+SCHED*.csv
+.DS_Store
